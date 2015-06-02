@@ -1,6 +1,6 @@
-==[IBM Bluemix for deploy]{https://console.ng.bluemix.net/home/}
+[IBM Bluemix for deploy](https://console.ng.bluemix.net/home/)
 
-===[Demo]{http://ruby-on-rails.mybluemix.net}
+[Demo](http://ruby-on-rails.mybluemix.net)
 
 This README.md file is displayed on your project page. You should edit this 
 file to describe your project, including instructions for building and 
